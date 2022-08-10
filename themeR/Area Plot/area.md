@@ -32,6 +32,4 @@ area.plot <- dt04_abund %>%
     #guides(fill = guide_legend(reverse = TRUE, title="Phylum")) +
 )
 ```
-<img src="https://github.com/your_image.png](https://github.com/lhsnam/DataViz-in-R/blob/main/themeR/Area%20Plot/area_non_legend.png)" alt="Area plot" width="250"/>
-
-
+<img src="https://github.com/your_image.png](https://github.com/lhsnam/DataViz-in-R/blob/main/themeR/Area%20Plot/area_non_legend.png)" alt="Area plot" width="50%" height="50%"/>
