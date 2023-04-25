@@ -34,4 +34,4 @@ area.plot <- dt04_abund %>%
 ```
 
 #Area plot of the top highest relative abundance:
-<img src="[/Relative abundance (area).png](https://github.com/lhsnam/DataViz-in-R/blob/main/themeR/Area/Relative%20abundance%20(area).png)" alt="Area plot" width="77%" height="77%"/>
+<img src="https://github.com/lhsnam/DataViz-in-R/blob/main/themeR/Area/Relative%20abundance%20(area).png" alt="Area plot" width="77%" height="77%"/>
